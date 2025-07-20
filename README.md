@@ -1,6 +1,10 @@
 <h1>Hi 👋, I'm Shahzad</h1>
 <h3>Full-Stack & AI Developer | Expert in API & AI Integrations</h3>
-
+<p>Full Stack Developer specializing in developing modern web applications with a strong focus on Python,
+Django, and JavaScript frameworks. Experienced in crafting high-performance RESTful APIs, building responsive user
+interfaces, and integrating AI/ML models to enhance smart, data-driven solutions. Adept at deploying applications
+on cloud platforms using CI/CD pipelines and collaborating with cross-functional teams for scalable, maintainable
+outcomes. Ready to leverage hands-on experience to drive success in innovative web development projects</p>
 <p >
   🚀 Passionate about building intelligent, scalable web applications using modern stacks and AI technologies.<br>
   💡 Specialized in third-party API integrations, automation, and creating real-world solutions powered by AI.<br>
