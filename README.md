@@ -15,13 +15,13 @@ outcomes. Ready to leverage hands-on experience to drive success in innovative w
 
 ### 🧑‍💻 About Me
 
-- 🎓 BS in Computer Science (2021–2025) from Govt. College D.I.K
-- 💼 Currently working on real-time AI integrations & smart SaaS solutions
-- ⚙️ Stack: `MERN`, `Python`, `Django`, `Next.js`, `Flask`, `FastAPI`
-- 🤖 AI APIs: OpenAI, ElevenLabs, Hugging Face, DeepSeek, OpenRouter
-- 🔗 APIs & Payment: RESTful APIs, Stripe, PayPal, WhatsApp
-- 🌱 Learning: Advanced NLP, Generative AI, System Design
-- 💬 Ask me about: Full-stack development, AI projects, or building production-ready APIs
+🎓 BS in Computer Science from Govt. College D.I.K
+💼 Currently working on real-time AI integrations & smart SaaS solutions
+⚙️ Stack: `MERN`, `Python`, `Django`, `Next.js`, `Flask`, `FastAPI`
+🤖 AI APIs: OpenAI, ElevenLabs, Hugging Face, DeepSeek, OpenRouter
+🔗 APIs & Payment: RESTful APIs, Stripe, PayPal, WhatsApp
+🌱 Learning: Advanced NLP, Generative AI, System Design
+💬 Ask me about: Full-stack development, AI projects, or building production-ready APIs
 
 ---
 
@@ -53,7 +53,7 @@ outcomes. Ready to leverage hands-on experience to drive success in innovative w
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> -->
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
